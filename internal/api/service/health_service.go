@@ -3,7 +3,7 @@ package service
 type HealthService struct{}
 
 func (*HealthService) GetHealthMessage() string {
-	return "OK"
+	return "Welcome to Orare API!"
 }
 
 func NewHealthService() *HealthService {
