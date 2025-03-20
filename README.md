@@ -1,4 +1,8 @@
-# Orare
+<h1 align="center">Orare.</h1>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/75aef21c-0e96-420f-8f87-ab2f52d07cff"></img></p>
+
+---
 
 De horários de missas a outros eventos, conectamos você com sua espiritualidade.
 
