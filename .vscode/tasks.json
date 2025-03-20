@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "go run ${workspaceFolder}/cmd/orare/main.go"
+        },
+        {
+            "label": "wire",
+            "type": "shell",
+            "command": "wire ${workspaceFolder}/internal/server/di/wire.go"
+        }
+    ]
+}
