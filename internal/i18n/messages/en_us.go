@@ -7,5 +7,6 @@ func EnUs() map[string]string {
 		"language": language.AmericanEnglish.String(),
 
 		"Admin.MigrateModels.Response.Success": "Models migrated successfully",
+		"HealthCheck.Response.Success":         "Orare API is Health!",
 	}
 }
