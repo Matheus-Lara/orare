@@ -10,11 +10,12 @@ Este repositório contém a API backend do Orare.
 
 ## Tecnologias Utilizadas
 
-- Back-end:
-  - Go lang
-    - GIN Framework
-    - AWS lambda (infraestrutura)
-  - CockroachDB (postgres)
+- Go lang
+  - GIN Framework
+  - AWS lambda (infraestrutura)
+- PostgreSQL
+
+Para mais informações sobre a arquitetura do projeto, consulte a [wiki](https://github.com/Matheus-Lara/orare/wiki/Orare).
 
 ## Setup
 
