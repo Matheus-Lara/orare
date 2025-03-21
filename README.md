@@ -15,7 +15,7 @@ Este repositório contém a API backend do Orare.
   - AWS lambda (infraestrutura)
 - PostgreSQL
 
-Para mais informações sobre a arquitetura do projeto, consulte a [wiki](https://github.com/Matheus-Lara/orare/wiki/Orare).
+Para mais informações sobre a arquitetura do projeto, consulte a [wiki](https://github.com/Matheus-Lara/orare/wiki).
 
 ## Setup
 
