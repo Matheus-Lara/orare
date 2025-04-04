@@ -17,7 +17,7 @@ func main() {
 	godotenv.Load()
 	i18n.Init()
 
-	setupDatabase()
+	//setupDatabase()
 	startHttpServer()
 
 	common.WaitOsInterruption()
