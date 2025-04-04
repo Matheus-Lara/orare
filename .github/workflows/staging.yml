@@ -11,7 +11,7 @@ jobs:
     env:
       IMAGE_TAG: staging
       APP_MODE: debug
-      IMAGE_REPOSITORY_NAME: ${{ github.repository }}
+      IMAGE_REPOSITORY_NAME: matheus-lara/orare
       STAGING_FUNCTION_NAME: ${{ secrets.STAGING_FUNCTION_NAME }}
     runs-on: ubuntu-latest
     steps:

@@ -11,7 +11,7 @@ jobs:
     env:
       IMAGE_TAG: latest
       APP_MODE: release
-      IMAGE_REPOSITORY_NAME: ${{ github.repository }}
+      IMAGE_REPOSITORY_NAME: matheus-lara/orare
       PRODUCTION_FUNCTION_NAME: ${{ secrets.PRODUCTION_FUNCTION_NAME }}
     runs-on: ubuntu-latest
     steps:
